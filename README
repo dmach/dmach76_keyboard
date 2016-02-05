@@ -1,0 +1,10 @@
+This is a prototype of an ergonomic keyboard.
+You can tweak the python files and render hardware specs
+tailored for your hands.
+
+Based on Atreus project:
+ * https://github.com/technomancy/atreus
+ * https://github.com/technomancy/atreus-firmware
+
+Firmware will be most likely ported to TMK:
+ * https://github.com/technomancy/tmk_keyboard
